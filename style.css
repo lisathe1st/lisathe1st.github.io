@@ -1,15 +1,37 @@
 
 p{
     color:rgb(33, 248, 68);font-size:16pt;
-    font-family:'Courier New', Courier, monospace;
+    font-family: "Silkscreen";
 } 
 
 body{
-    color:cornflowerblue;background-color:black
+    color:cornflowerblue;background-color:black;
+    font-family: "Indie Flower"
 
 }
 
 img{
-    width: 700px;
+    width: 500px;
 
 }
+
+
+.indie-flower-regular{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .silkscreen-bold {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  div{
+    max-width:600px;margin:auto;
+  }
+  
+  
+
